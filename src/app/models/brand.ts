@@ -1,5 +1,5 @@
 export interface Brand{
     Id:number,
-    Name:string,
+    name:string,
     isActive:boolean
 }
